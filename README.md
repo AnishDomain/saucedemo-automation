@@ -25,7 +25,8 @@ Modules automnated for the site:
 1. Clone this repository:
    ```bash
    git clone https://github.com/AnishDomain/saucedemo-automation.git
-   cd cypress-automation-project
+   cd saucedemo-automation
+
 
 2.Install dependencies:
   npm install
