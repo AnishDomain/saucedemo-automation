@@ -1,0 +1,39 @@
+[
+    {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "expectedresult": "Products"
+},
+  
+  
+
+  
+{
+    "username": "problem_user",
+    "password": "secret_sauce",
+    "expectedresult": "Products"
+},
+  
+{
+    "username": "error_user",
+    "password": "secret_sauce",
+    "expectedresult": "Products"
+},
+
+
+
+{   
+    "username": "standard_user",
+    "password": "random",
+    "expectedresult": "Epic sadface: Username and password do not match any user in this service"
+
+}
+]
+
+
+
+
+
+
+
+
